@@ -1,51 +1,11 @@
-[
-	{
-		"typology": "t0",
-		"data":{
-			"min":"35m2",
-			"max":"57m2"
-		}
-	},
-	{
-		"typology": "t1",
-		"data":{
-			"min":"52m2",
-			"max":"73m2"
-		}
-	},
-	{
-		"typology": "t2",
-		"data":{
-			"min":"72m2",
-			"max":"95m2"
-		}
-	},
-	{
-		"typology": "t3",
-		"data":{
-			"min":"91m2",
-			"max":"117m2"
-		}
-	},
-	{
-		"typology": "t4",
-		"data":{
-			"min":"105m2",
-			"max":"128m2"
-		}
-	},
-	{
-		"typology": "t5",
-		"data":{
-			"min":"122m2",
-			"max":"150m2"
-		}
-	},
-	{
-		"typology": "t6",
-		"data":{
-			"min":"134m2",
-			"max":"161m2"
-		}
-	}
-]
+{
+  "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "movies": [
+    { "id": "1", "title": "Star Wars", "releaseYear": "1977" },
+    { "id": "2", "title": "Back to the Future", "releaseYear": "1985" },
+    { "id": "3", "title": "The Matrix", "releaseYear": "1999" },
+    { "id": "4", "title": "Inception", "releaseYear": "2010" },
+    { "id": "5", "title": "Interstellar", "releaseYear": "2014" }
+  ]
+}
