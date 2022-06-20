@@ -15,7 +15,7 @@ Dados consultados em [`Regulamento geral das edificações urbanas`](http://www.
 ### Imposto Municipal sobre as Transmissões Onerosas de Imóveis (IMT)
 Dados consultados no [`Simulador de IMT (Doutor Finanças)`](https://www.doutorfinancas.pt/simulador-imt/) dia 24 de maio de 2022.
 
-## Regras do Crédito à Habitação
+## Regras
 
 ### Prazo Máximo
 Dados consultados no [`Comunicado do Banco de Portugal sobre convergência da maturidade média dos novos contratos de crédito à habitação para 30 anos (Banco de Portugal)`](https://www.bportugal.pt/comunicado/comunicado-do-banco-de-portugal-sobre-convergencia-da-maturidade-media-dos-novos-0/) dia 09 de junho de 2022.
